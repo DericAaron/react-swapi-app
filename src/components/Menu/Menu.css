@@ -1,0 +1,14 @@
+.menu ul {
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline-block;
+    padding-right: 5%;
+}
+
+.menu {
+    background-image: url("https://wallpaperwire.com/wp-content/uploads/2018/03/Star-Wars-Space-Background-40.jpg");
+    background-size: 100%;
+    padding: .05%;
+}
